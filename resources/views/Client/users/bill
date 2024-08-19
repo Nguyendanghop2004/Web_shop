@@ -1,0 +1,2 @@
+mkdir -p resources/views/client/users
+touch resources/views/client/users/checkout_success.blade.php
